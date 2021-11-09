@@ -7,7 +7,7 @@ You can have a look on the project using the link:
 
 ## Run Project on your device
 
-To run this project you have to install ndoejs and npm.
+To run this project you have to install nodejs and npm.
 
 ```bash
   npm install
