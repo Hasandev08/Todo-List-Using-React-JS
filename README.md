@@ -7,11 +7,9 @@ You can have a look on the project using the link:
 
 ## Run Project on your device
 
-To run this project you have to install nodejs and npm.
+### `npm start`
 
-```bash
-  npm install
-```
-
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
